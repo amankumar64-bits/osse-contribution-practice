@@ -8,3 +8,4 @@ This file records contributions made during the Git and GitHub practice lab.
 | Name | Learning Goal |
 |---|---|
 | Instructor | Demonstrate the contribution workflow |
+| Aman | Understand Git branching, commits, and pull requests. |
